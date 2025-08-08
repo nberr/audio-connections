@@ -7,9 +7,9 @@ List of audio companies and people
 | [AEG](https://aegworldwide.com/) | | |
 | [Akai (inMusic)](https://www.akaipro.com/) | controllers, keyboard | Cumberland, Rhode Island USA |
 | [Alesis (inMusic)](https://www.alesis.com/) | keyboards, e-drums | Cumberland, Rhode Island USA |
-| [Amazon(https://music.amazon.com/) | Amazon Music | Seattle, Washington USA |
+| [Amazon](https://music.amazon.com/) | Amazon Music | Seattle, Washington USA |
 | [Antares](https://www.antarestech.com/) | Autotune | Santa Cruz, California USA |
-| [Aphex Twin(https://aphextwin.warp.net/) | sample brain | | 
+| [Aphex Twin](https://aphextwin.warp.net/) | sample brain | | 
 | [Apogee](https://apogeedigital.com/) | plugins, mics, interface | Sant Monica, California USA |
 | [Apple](https://www.apple.com/) | Logic Pro, Garage Band, Apple Music, Airpods | Cupertino, California USA |
 | [Artiphon](https://www.artiphon.com/) | controllers | Nashville, Tennessee USA |
