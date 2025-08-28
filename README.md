@@ -89,21 +89,21 @@ List of audio companies and people
 | [Mackie](https://mackie.com/) | | | 
 | [Melda Production](https://www.meldaproduction.com/) | plugins | |
 | [Minimal Audio](https://www.minimal.audio/) | plugins, soundpacks | Los Angeles, California USA (Remote)|
-| [Modalics](https://www.modalics.com/) | | |
-| [Moog](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d07e7494c7017e9d82569821ab) | | |
+| [Modalics](https://www.modalics.com/) | plugins | |
+| [Moog](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d07e7494c7017e9d82569821ab) | synthesizers | |
 | [Muse Group](https://www.mu.se/) | Muscore, Audacity | |
 | [Music Tribe](https://community.musictribe.com/pages/about-us) | | |
 | [Musixmatch](https://www.musixmatch.com/) | | |
 | [Nathan Blair](https://nthnblair.com/) | plugins | |
-| [Native Instruments](https://www.native-instruments.com/en/careers/) | | |
-| [Neural DSP](https://careers.neuraldsp.com/#section-jobs) | | |
-| [Neutone](https://neutone.ai/) | | |
+| [Native Instruments](https://www.native-instruments.com/en/careers/) | plugins | |
+| [Neural DSP](https://careers.neuraldsp.com/#section-jobs) | plugins | |
+| [Neutone](https://neutone.ai/) | plugins | |
 | [NINM Lab](https://www.ninmlab.com/) | | |
 | [Noise Engineering](https://noiseengineering.us/) | | |
 | [NoiseWorks](https://noiseworksaudio.com/) | | |
 | [Nyamo Audio](https://nymanoaudio.com/) | | |
-| [Open DAW](https://opendaw.org/) | | |
-| [Output](https://output.com/company#careers) | | |
+| [Open DAW](https://opendaw.org/) | DAW | (Remote) |
+| [Output](https://output.com/company#careers) | plugins, sample packs | Los Angeles, California USA (Remote) |
 | [Pitch Innovations](https://www.pitchinnovations.com/) | plugins | |
 | [Playfair Audio](https://playfair-audio.com/) | | |
 | [Plugin Alliance](https://www.plugin-alliance.com/) | | |
@@ -113,55 +113,55 @@ List of audio companies and people
 | [QSC Pro Audio](https://www.qsc.com/) | | |
 | [RCA](https://www.rca.com/) | | |
 | [Reason Studios](https://www.reasonstudios.com/) | | |
-| [Rogue Amoeba](https://rogueamoeba.com/) | | |
+| [Rogue Amoeba](https://rogueamoeba.com/) | mac apps | |
 | [Roland](https://www.roland.com/us/company/employment_opportunities/) | | |
 | [Roli](https://roli.com/careers) | | |
 | [Safari Pedals](https://safaripedals.com/) | | |
-| [Schiit](https://www.schiit.com/) | | |
-| [Sennheiser](https://www.sennheiser.com/en-us) | | |
+| [Schiit](https://www.schiit.com/) | pro audio | San Antonio, Texas USA |
+| [Sennheiser](https://www.sennheiser.com/en-us) | pro audio | |
 | [Sequential](https://sequential.com/) | | |
-| [Serato](https://serato.com/) | | |
-| [Shure](https://www.shure.com/en-US) | | |
-| [SiriusXM](https://www.siriusxm.com/) | | |
+| [Serato](https://serato.com/) | dj software | |
+| [Shure](https://www.shure.com/en-US) | microphones | |
+| [SiriusXM](https://www.siriusxm.com/) | music streaming | |
 | [Slate Digital](https://slatedigital.com/) | | |
 | [Softtube](https://www.softube.com/) | | |
-| [Solid State Logic](https://solidstatelogic.com/) | | |
+| [Solid State Logic](https://solidstatelogic.com/) | plugins | |
 | [sonible](https://www.sonible.com/) | | |
 | [Sonic Charge](https://soniccharge.com/) | | |
 | [Sonnox](https://www.sonnox.com/about/jobs) | | |
-| [Sonos](https://www.sonos.com/en-us/home) | | |
-| [Sony](https://www.sony.com/en/) | | |
-| [SoundCloud](https://soundcloud.com/discover) | | |
+| [Sonos](https://www.sonos.com/en-us/home) | pro audio | |
+| [Sony](https://www.sony.com/en/) | pro audio | |
+| [SoundCloud](https://soundcloud.com/discover) | music streaming | |
 | [Soundful](https://soundful.com/) | | |
 | [Soundpaint](https://soundpaint.com/) | | 
 | [SoundToys](https://soundtoysdev.kinsta.cloud/software-developer/) | | |
 | [Spectrasonics](https://www.spectrasonics.net/) | | |
 | [Spektro Audio](https://spektroaudio.com/) | | |
-| [Spitfire](https://www.spitfireaudio.com/careers/) | | |
-| [Splice](https://boards.greenhouse.io/splice) | | |
-| [Spotify](https://www.lifeatspotify.com/) | | |
-| [Surge Synth](https://surge-synthesizer.github.io/) | | |
-| [Synchro Arts](https://www.synchroarts.com/stories) | | |
-| [Teenage Engineering](https://teenage.engineering/) | | |
-| [The Audio Programmer](https://www.theaudioprogrammer.com/recruitment) | | |
-| [The Cargo Cult](https://www.thecargocult.nz/) | | |
-| [Tidal](https://tidal.com/) | | |
-| [time off audio](https://timeoff.audio/) | | |
-| [Tokyo Dawn Labs](https://www.tokyodawn.net/tokyo-dawn-labs/) | | |
-| [Traktion](https://www.tracktion.com/) | | |
-| [u-he](https://u-he.com/) | | | |
-| [United Plugins](https://unitedplugins.com/) | | |
-| [Universal Audio](https://www.uaudio.com/careers) | | |
-| [unplug red](https://vst.unplug.red/about) | | |
-| [Untethered Audio](https://www.untetheredaudio.com/) | | |
-| [UVI](https://www.uvi.net/) | | |
-| [Valhalla DSP](https://valhalladsp.com/) | | |
-| [Verso](https://versoinstruments.com/) | | |
-| [Voxengo](https://www.voxengo.com/) | | |
-| [Wavefactory](https://www.wavesfactory.com/) | | |
-| [Waves Audio](https://www.waves.com/careers) | | |
-| [Xfer Records](https://xferrecords.com/) | | |
-| [XLN Audio](https://careers.xlnaudio.com/) | | |
-| [Yamaha](https://www.yamaha.com/us/careers/) | | |
-| [zplane](https://products.zplane.de/products/elastiquepitch/) | | | 
-| [zynaptic](https://www.zynaptiq.com/) | | |
+| [Spitfire](https://www.spitfireaudio.com/careers/) | LABS+, plugins | London England (Remote) |
+| [Splice](https://boards.greenhouse.io/splice) | samples | New York USA (Remote) |
+| [Spotify](https://www.lifeatspotify.com/) | music streaming | USA, Europe |
+| [Surge Synth](https://surge-synthesizer.github.io/) | synth | |
+| [Synchro Arts](https://www.synchroarts.com/stories) | VocAlign, plugins | United Kingdom |
+| [Teenage Engineering](https://teenage.engineering/) | synths, instruments | Stockholm, Sweden |
+| [The Audio Programmer](https://www.theaudioprogrammer.com/recruitment) | networking | (Remote) |
+| [The Cargo Cult](https://www.thecargocult.nz/) | plugins | New Zealand |
+| [Tidal](https://tidal.com/) | music streaming | New York, New York USA |
+| [time off audio](https://timeoff.audio/) | plugins | United Kingdom |
+| [Tokyo Dawn Labs](https://www.tokyodawn.net/tokyo-dawn-labs/) | plugins | Munich, Germany |
+| [Tracktion](https://www.tracktion.com/) | Waveform DAW, plugins | Kirkland, Washington USA |
+| [u-he](https://u-he.com/) | plugins | Berlin, Germany |
+| [United Plugins](https://unitedplugins.com/) | plugins | Czech Republic |
+| [Universal Audio](https://www.uaudio.com/careers) | plugins, interfaces | Scotts Valley, California USA |
+| [unplug red](https://vst.unplug.red/about) | plugins | |
+| [Untethered Audio](https://www.untetheredaudio.com/) | datalooper pedal | California USA |
+| [UVI](https://www.uvi.net/) | plugins | Paris, France |
+| [Valhalla DSP](https://valhalladsp.com/) | plugins | Seattle, Washington USA |
+| [Verso](https://versoinstruments.com/) | guitars | Germany |
+| [Voxengo](https://www.voxengo.com/) | plugins | Russia |
+| [Wavefactory](https://www.wavesfactory.com/) | plugins, sample libraries | Mallorca, Spain |
+| [Waves Audio](https://www.waves.com/careers) | plugins | Knoxville, Tennessee USA |
+| [Xfer Records](https://xferrecords.com/) | Serum, plugins | Los Angeles, California USA |
+| [XLN Audio](https://careers.xlnaudio.com/) | plugins | Stockholm, Sweden |
+| [Yamaha](https://www.yamaha.com/us/careers/) | controllers, instruments, audio tech | USA, Japan (Remote) |
+| [zplane](https://products.zplane.de/products/elastiquepitch/) | pitch shift library | Berlin, Germany | 
+| [zynaptic](https://www.zynaptiq.com/) | plugins | Hannover, Germany |
